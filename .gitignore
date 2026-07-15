@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables & Secrets
+.env
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Old Local Databases
+*.db
+*.sqlite3
+medguide.db
+
+# IDE and OS Files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Uploaded Files (if your app saves user uploads locally)
+uploads/
